@@ -13,6 +13,7 @@ require_once __DIR__. '/pre.php';
     <div class="main">
         <h2><a href="<?= $index_php ?>">ようこそ！いんべんとりぃへ</a></h2>
         <p><?= $userName ?>さん</p>
+        //  手sy値
         
 
         
